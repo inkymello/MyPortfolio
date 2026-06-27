@@ -45,6 +45,7 @@ export default function Hero({ hero, resumeUrl }) {
                   target="_blank"
                   rel="noreferrer"
                   className="button-secondary"
+                  download="Imasha_Ilamperuma_CV.pdf"
                 >
                   Download Resume
                 </a>
