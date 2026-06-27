@@ -1,0 +1,51 @@
+[
+  {
+    "category": "Infrastructure & Operations",
+    "items": [
+      "System, Network & Firewall Administration",
+      "IT Infrastructure & Service Management",
+      "Network Operations Centre (NOC) Support - PRTG Monitoring",
+      "HPE Aruba Networking",
+      "Troubleshooting & Incident Management (L1/L2)",
+      "Security & Endpoint Management - SCCM, CrowdStrike, Intune",
+      "ITIL 4 Service Management",
+      "Cloud & Managed Services"
+    ]
+  },
+  {
+    "category": "Data & Analytics",
+    "items": [
+      "Business Intelligence & Data Analytics",
+      "Power BI Dashboard Development",
+      "Apache Superset Reporting",
+      "Snowflake Data Engineering",
+      "Data-Driven Problem Solving & Process Optimization",
+      "Python - TensorFlow, OpenCV, Flask",
+      "SQL & Database Management",
+      "Machine Learning & Deep Learning (ResNet50, Keras)"
+    ]
+  },
+  {
+    "category": "Tools & Platforms",
+    "items": [
+      "ServiceNow - ITSM Ticketing",
+      "Forcepoint / Bitlocker / Microsoft Intune",
+      "Docker & Google Colab",
+      "React Native & p5.js",
+      "PHP / MySQL / XAMPP",
+      "Git & Version Control",
+      "Project Management Fundamentals (PMI)"
+    ]
+  },
+  {
+    "category": "Interpersonal",
+    "items": [
+      "Analytical Thinking & Critical Reasoning",
+      "Attention to Detail",
+      "Cross-Functional Communication",
+      "Time Management under SLA Pressure",
+      "Leadership & Initiative",
+      "Continuous Learning Orientation"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "siteTitle": "Imasha Ilamperuma - Systems Engineer & Business Intelligence Enthusiast",
+  "hero": {
+    "label": "Systems Support Engineer & Business Intelligence Enthusiast",
+    "firstName": "Imasha",
+    "lastName": "Ilamperuma",
+    "summary": "Bridging managed IT infrastructure and data-driven intelligence. Currently pursuing MSc Business Intelligence & Analytics at Teesside University, UK.",
+    "primaryAction": {
+      "label": "Get In Touch",
+      "href": "#contact"
+    },
+    "secondaryAction": {
+      "label": "View Projects",
+      "href": "#projects"
+    },
+    "photo": {
+      "src": "/Image.PNG",
+      "alt": "Imasha Ilamperuma"
+    }
+  },
+  "about": [
+    "I am a dedicated and analytical technology professional with a BSc (Hons) in Computer Science from the University of Sri Jayewardenepura, Sri Lanka, and a growing career as a Systems Support Engineer at Millennium IT ESP.",
+    "With hands-on experience managing IT infrastructure, network operations, and enterprise service management, I focus on turning operational complexity into clear, measurable outcomes through data-driven approaches.",
+    "I am currently completing an MSc in Business Intelligence and Analytics at Teesside University, UK, which deepens my expertise in analytics, decision science, and digital transformation. My long-term goal is to close the gap between technology infrastructure and business strategy by converting system telemetry and operational data into actionable intelligence.",
+    "I believe in deliberate, continuous learning and applying analytical rigor to every challenge, technical or strategic."
+  ],
+  "facts": [
+    {
+      "label": "Current Role",
+      "value": "Engineer - Systems Support (Service Delivery and Compliance), Managed Infrastructure Services, Millennium IT ESP"
+    },
+    {
+      "label": "Postgraduate Study",
+      "value": "MSc Business Intelligence & Analytics, Teesside University, UK (2026 - Present)"
+    },
+    {
+      "label": "Undergraduate Degree",
+      "value": "BSc (Hons) Computer Science - Second Class Upper, University of Sri Jayewardenepura (2021 - 2025)"
+    },
+    {
+      "label": "Location",
+      "value": "Sri Lanka"
+    }
+  ],
+  "contact": {
+    "email": "ichathurangi2000@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/imasha-ilamperuma-0a1792185/",
+    "github": "https://github.com/inkymello",
+    "resume": "https://drive.google.com/file/d/11aZ6-5qR3T4spZvCexRsFwhRRgfA-L59/view?usp=drive_link"
+  }
+}

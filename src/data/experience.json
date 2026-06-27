@@ -1,0 +1,59 @@
+[
+  {
+    "period": "May 2026 - Present",
+    "role": "Engineer - Systems Support (Service Delivery & Compliance)",
+    "company": "Millennium IT ESP - Managed Infrastructure Services",
+    "summary": "Assigned to the Service Delivery and Compliance team within Managed Infrastructure Services, focused on performance monitoring and reporting for key client engagements.",
+    "highlights": [
+      "Designing Power BI and Apache Superset dashboards for project performance monitoring",
+      "Providing analyst support for Onsys Pty Ltd, Dole Asia, and South Asia Gateway Terminals"
+    ],
+    "tags": ["Power BI", "Apache Superset", "Reporting", "Dashboard Design"]
+  },
+  {
+    "period": "May 2025 - April 2026",
+    "role": "Engineer - Systems Support",
+    "company": "Millennium IT ESP - Honeylight Consulting (Australia)",
+    "summary": "Deputed as a Systems Support Engineer for Honeylight Consulting under a managed services engagement, handling day-to-day IT operations.",
+    "highlights": [
+      "System, network, and firewall administration across client infrastructure",
+      "IT service management aligned with ITIL 4 practices",
+      "Incident triage and lifecycle resolution",
+      "HPE Aruba network management and configuration",
+      "NOC support via PRTG alert monitoring and escalation",
+      "Daily systems and platform administration checklist management"
+    ],
+    "tags": [
+      "System Administration",
+      "Network Administration",
+      "Firewall Administration",
+      "PRTG Monitoring",
+      "Incident Management",
+      "HPE Aruba"
+    ]
+  },
+  {
+    "period": "September 2024 - April 2025",
+    "role": "Intern - Managed Services (Associate Systems Support Engineer)",
+    "company": "Millennium IT ESP - AIA Insurance (Sri Lanka)",
+    "summary": "Delivered end-user support across hardware, software, and network domains in a regulated financial services environment.",
+    "highlights": [
+      "Resolved hardware, software, and network issues across L1 and L2 tickets",
+      "Installed and maintained systems, software, and peripherals",
+      "Assisted endpoint deployment for computers and mobile devices",
+      "Managed user access permissions and compliance controls",
+      "Handled ServiceNow support tickets via email and phone",
+      "Maintained IT asset inventory and license tracking"
+    ],
+    "tags": [
+      "SCCM",
+      "Forcepoint",
+      "CrowdStrike",
+      "ServiceNow",
+      "Bitlocker",
+      "Microsoft Intune",
+      "ITSM",
+      "Compliance Management"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "degree": "MSc in Business Intelligence and Analytics",
+    "school": "Teesside University, United Kingdom",
+    "period": "February 2026 - Present",
+    "details": [
+      "Focus areas: advanced data analytics, business decision science, and digital transformation",
+      "Developing expertise in BI tooling, statistical modeling, and enterprise reporting"
+    ]
+  },
+  {
+    "degree": "BSc (Hons) in Computer Science",
+    "school": "University of Sri Jayewardenepura, Sri Lanka",
+    "period": "June 2021 - June 2025",
+    "details": [
+      "Graduated with Second Class Upper Division",
+      "Relevant coursework: Data Structures and Algorithms, Machine Learning, Artificial Intelligence, Big Data, and Database Management Systems",
+      "Final year research: X-Ray Information System with deep neural network approach on MURA v1.1"
+    ]
+  }
+]

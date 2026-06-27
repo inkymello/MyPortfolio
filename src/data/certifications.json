@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Google Project Management",
+    "issuer": "Google",
+    "date": "Issued June 2026",
+    "id": "DYU2GD9B153V"
+  },
+  {
+    "name": "ITIL 4 Foundation",
+    "issuer": "Logical Operations",
+    "date": "Issued May 2026",
+    "id": "B18K9T6BSMF7"
+  },
+  {
+    "name": "Snowflake Data Engineering",
+    "issuer": "Snowflake",
+    "date": "Issued May 2026",
+    "id": "I9ZNYP155YT1"
+  },
+  {
+    "name": "Fundamentals of Predictive Project Management",
+    "issuer": "Project Management Institute (PMI)",
+    "date": "Issued April 2026",
+    "id": "KICKOFF"
+  }
+]
