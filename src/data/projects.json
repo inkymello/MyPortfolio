@@ -3,40 +3,114 @@
     "category": "BSc Final Year Research - Deep Learning",
     "title": "X-Ray Information System: Deep Neural Network Approach",
     "description": "Automated bone fracture detection from musculoskeletal X-rays using ResNet50 trained on MURA v1.1 with Flask API and React Native integration for clinical decision support.",
-    "tech": ["Python", "TensorFlow / Keras", "OpenCV", "Flask", "React Native", "Docker", "Google Colab", "Git"],
+    "tech": [
+      "Python",
+      "TensorFlow / Keras",
+      "OpenCV",
+      "Flask",
+      "React Native",
+      "Docker",
+      "Google Colab",
+      "Git"
+    ],
     "links": [
-      {"label": "View Demo", "href": "https://drive.google.com/drive/folders/1OACP5DoCA_7rsmQ6dctdU70K_pJURnW6?usp=sharing"},
-      {"label": "Research Paper", "href": "https://drive.google.com/file/d/1KzTNBWfoYUg4dDE-HLeCBNW4lZSc1LLI/view?usp=sharing"}
+      {
+        "label": "View Demo",
+        "href": "https://drive.google.com/drive/folders/1OACP5DoCA_7rsmQ6dctdU70K_pJURnW6?usp=sharing"
+      },
+      {
+        "label": "Research Paper",
+        "href": "https://drive.google.com/file/d/1KzTNBWfoYUg4dDE-HLeCBNW4lZSc1LLI/view?usp=sharing"
+      }
     ]
   },
   {
     "category": "HCI Coursework - Computer Vision",
     "title": "Hand-Gesture-Controlled Tetris Game (Tetra Thrill)",
     "description": "Gesture-driven Tetris for HCI coursework using Mediapipe hand landmark detection and pygame game logic.",
-    "tech": ["Python", "OpenCV", "Mediapipe", "pygame", "Git"],
+    "tech": [
+      "Python",
+      "OpenCV",
+      "Mediapipe",
+      "pygame",
+      "Git"
+    ],
     "links": [
-      {"label": "View Demo", "href": "https://drive.google.com/file/d/1laN17Z4nbRVpbeAMcfnIEMMnJaieMmrS/view?usp=sharing"},
-      {"label": "GitHub", "href": "https://github.com/inkymello/Hand-Gesture-Controlled-Tertis-Game.git"}
+      {
+        "label": "View Demo",
+        "href": "https://drive.google.com/file/d/1laN17Z4nbRVpbeAMcfnIEMMnJaieMmrS/view?usp=sharing"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/inkymello/Hand-Gesture-Controlled-Tertis-Game.git"
+      }
     ]
   },
   {
     "category": "Creative Coding - Generative Art",
     "title": "Kaleidoscope Snowflake Generator (Snow KaleidoCraft Studio)",
     "description": "Interactive browser tool generating unique symmetrical snowflakes in p5.js with real-time parameter control.",
-    "tech": ["JavaScript", "p5.js", "HTML5", "CSS3"],
+    "tech": [
+      "JavaScript",
+      "p5.js",
+      "HTML5",
+      "CSS3"
+    ],
     "links": [
-      {"label": "View Demo", "href": "https://drive.google.com/file/d/1qd-JSRgd-NfB8QvMAgUHongMk3150X0q/view?usp=sharing"},
-      {"label": "GitHub", "href": "https://github.com/inkymello/Kaleidoscope-Snowflake-Generator.git"}
+      {
+        "label": "View Demo",
+        "href": "https://drive.google.com/file/d/1qd-JSRgd-NfB8QvMAgUHongMk3150X0q/view?usp=sharing"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/inkymello/Kaleidoscope-Snowflake-Generator.git"
+      }
     ]
   },
   {
     "category": "Full-Stack Web - Database Systems",
     "title": "Sinhala Literature Book Store Management System",
     "description": "Full-stack bookstore system with inventory, order processing, and a customer catalog on PHP and MySQL.",
-    "tech": ["PHP", "MySQL", "XAMPP", "HTML5", "CSS3", "JavaScript"],
+    "tech": [
+      "PHP",
+      "MySQL",
+      "XAMPP",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
     "links": [
-      {"label": "View Demo", "href": "https://drive.google.com/file/d/1Spaf-R3qgRbCK0J1FkfGkhZ58KIxJf-9/view?usp=sharing"},
-      {"label": "GitHub", "href": "https://github.com/inkymello/Sinhala-Literature-Book-Store-Management-System.git"}
+      {
+        "label": "View Demo",
+        "href": "https://drive.google.com/file/d/1Spaf-R3qgRbCK0J1FkfGkhZ58KIxJf-9/view?usp=sharing"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/inkymello/Sinhala-Literature-Book-Store-Management-System.git"
+      }
+    ]
+  },
+  {
+    "category": "Full-Stack Web - Database Systems",
+    "title": "Sinhala Literature Book Store Management System",
+    "description": "Full-stack bookstore system with inventory, order processing, and a customer catalog on PHP and MySQL.",
+    "tech": [
+      "PHP",
+      "MySQL",
+      "XAMPP",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "links": [
+      {
+        "label": "View Demo",
+        "href": "https://drive.google.com/file/d/1Spaf-R3qgRbCK0J1FkfGkhZ58KIxJf-9/view?usp=sharing"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/inkymello/Sinhala-Literature-Book-Store-Management-System.git"
+      }
     ]
   }
 ]
