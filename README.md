@@ -1,6 +1,5 @@
 # Imasha Ilamperuma - Professional Portfolio
 
-![Portfolio Preview](./public/Image.PNG)
 
 A modern, high-performance, responsive portfolio showcasing my background in Systems Engineering and Business Intelligence. Built with React and Vite.
 
