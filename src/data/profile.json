@@ -14,7 +14,7 @@
       "href": "#projects"
     },
     "photo": {
-      "src": "/Image.PNG",
+      "src": "./Image.PNG",
       "alt": "Imasha Ilamperuma"
     }
   },

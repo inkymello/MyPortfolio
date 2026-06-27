@@ -1,46 +1,50 @@
-# Imasha Portfolio (React + Vite)
+# Imasha Ilamperuma - Professional Portfolio
 
-This project recreates your portfolio using React and JSON-driven content.
+![Portfolio Preview](./public/Image.PNG)
+
+A modern, high-performance, responsive portfolio showcasing my background in Systems Engineering and Business Intelligence. Built with React and Vite.
+
+## Live Demo
+[View Live Portfolio](https://inkymello.github.io/MyPortfolio/)
 
 ## Tech Stack
 
-- React (Vite)
-- Plain CSS with centralized design tokens
-- JSON data files for content sections
+- **Framework**: React 19 + Vite
+- **Styling**: Plain CSS with a custom Design System (CSS Variables for typography, colors, spacing)
+- **Animations**: Intersection Observer API for scroll reveals
+- **Data Architecture**: Component-driven UI fed by JSON data files
 
-## Data-Driven Structure
+## Project Structure
 
-All portfolio content is separated into JSON files in `src/data`:
+The project is designed to separate content from logic. All portfolio data (skills, projects, experience, etc.) is managed via JSON files in the `src/data/` directory.
 
-- `profile.json`
-- `skills.json`
-- `experience.json`
-- `education.json`
-- `certifications.json`
-- `projects.json`
-
-Update these files to change text/content without editing React component logic.
-
-## Profile Photo
-
-Your profile photo path is set to `/Image.PNG`.
-
-Add your image file here:
-
-- `public/Image.PNG`
-
-If the file is missing, the app shows an initials fallback (`II`).
-
-## Run Locally
-
-```bash
-npm.cmd install
-npm.cmd run dev
+```
+src/
+├── components/      # React components (Hero, About, Projects, etc.)
+├── data/            # JSON data source (profile, skills, experience, etc.)
+├── App.jsx          # Main application component
+└── App.css          # Global styles and design system tokens
 ```
 
-## Build
+## Local Development
 
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Building for Production
+
+To create a production build:
 ```bash
-npm.cmd run build
-npm.cmd run preview
+npm run build
 ```
+This generates the optimized static assets in the `dist/` directory.
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
